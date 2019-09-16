@@ -1,0 +1,1 @@
+打开jsp界面，显示Hello wold和一个Hello按钮，通过servlet跳转到另外一个jsp界面，显示Hello
